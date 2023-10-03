@@ -1,0 +1,11 @@
+
+@media screen and (max-width:800px) {
+    .section{ width: 95%;
+
+    }
+    nav ol li{
+        display: block;
+    }
+    
+    
+}
